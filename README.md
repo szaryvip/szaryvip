@@ -1,5 +1,6 @@
 ### Hi there 👋 
 My name is Łukasz and I am currently studing at WUT and working as Data Scientist at ABERG CONNECT.
+
 I am also co-creator of blog about AI, programming and personal development [LetsTalk{About}IT](https://letstalkit.io/)
 
 #### Working with: 
@@ -21,4 +22,5 @@ I am also co-creator of blog about AI, programming and personal development [Let
   
   
 Contact:
+
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C5%82ukasz-szarejko-6817b219b/)
