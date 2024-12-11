@@ -1,8 +1,6 @@
 ### Hi there 👋 
 My name is Łukasz and I am currently studing at WUT and working as Data Scientist at ABERG CONNECT.
 
-I am also co-creator of blog about AI, programming and personal development [LetsTalk{About}IT](https://letstalkit.io/)
-
 #### Working with: 
   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
   ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
