@@ -1,5 +1,5 @@
 ### Hi there 👋 
-My name is Łukasz and I am currently studing at WUT and working as Data Scientist at ABERG CONNECT.
+My name is Łukasz and I am currently studing at WUT and working as Data Engineer at Centrum Respo.
 
 #### Working with: 
   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
